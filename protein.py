@@ -2,6 +2,7 @@ import pandas as pd
 import math
 import numpy as np
 import matplotlib.pyplot as plt
+import plotly
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import streamlit as st
