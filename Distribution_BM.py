@@ -3,7 +3,6 @@ import math
 import numpy as np
 import plotly
 import plotly.graph_objects as go
-import numpy as np
 
 def main():
     st.title("Curva de distribución de Boltzmann-Maxwell")
