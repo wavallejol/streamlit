@@ -5,5 +5,5 @@
 
 <div <p><H3><b>Curva de Estabilidad Termodinámica de una Proteína</b></div> 
   <div align="justify">Se presenta un simulador interactivo desarrollado en streamlit, de la curva de estabilidad termodinámica para el equilibrio de desnaturalización de una proteína</div>
- <div <H4><b> Puedes acceder a simulador por este link: </b> <a href="https://share.streamlit.io/wavallejol/streamlit/main/protein.py"> <img src='https://github.com/wavallejol/streamlit/blob/main/icon.png'width = "40" height = "15" /> </a></div>
+ <div <H4><b> Puedes acceder a simulador por este link: </b> <a href="https://share.streamlit.io/wavallejol/streamlit/main/protein.py"> <img src='https://static.streamlit.io/badges/streamlit_badge_black_white.svg'> </a></div>
   <hr size="4" width="100%" color="red">
